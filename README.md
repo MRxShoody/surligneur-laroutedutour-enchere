@@ -21,7 +21,10 @@ extension web (edge/chrome) pour surligner les cyclistes au départ d'un tour à
 
 6. rendez-vous sur la page des enchères de votre tour laroutedutour
 
-7. inserez le tableau dans la zone de texte 
+7. cliquez sur l'extension et inserez le tableau dans la zone de texte
+
+![image](https://github.com/MRxShoody/surligneur-laroutedutour-enchere/assets/109236654/6baf81ca-c052-4e02-be8c-2515dfb11911)
+ 
 ![image](https://github.com/MRxShoody/surligneur-laroutedutour-enchere/assets/109236654/1100734d-406f-4f56-81e1-1c540c9754d7)
 
 8. appuyez sur ok 
