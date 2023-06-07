@@ -12,8 +12,11 @@ extension web (edge/chrome) pour surligner les cyclistes au départ d'un tour à
 5. recopiez le tableau comme le format suivant :
 
 1	 ABERASTURI Jon	Trek - Segafredo	
+
 2	 ALAPHILIPPE Julian	Soudal - Quick Step	
+
 3	 AMADOR Andrey	EF Education-EasyPost	
+
 4	 ARCAS Jorge	Movistar Team
 
 6. rendez-vous sur la page des enchères de votre tour laroutedutour
