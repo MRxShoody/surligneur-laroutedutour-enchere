@@ -23,13 +23,13 @@ extension web (edge/chrome) pour surligner les cyclistes au départ d'un tour à
 
 7. cliquez sur l'extension et inserez le tableau dans la zone de texte
 
-![image](https://github.com/MRxShoody/surligneur-laroutedutour-enchere/assets/109236654/81ceb008-4af3-4955-9f35-9afc3886f176)
+![image](https://github.com/MRxShoody/surligneur-laroutedutour-enchere/assets/109236654/6d27245d-74d2-4eff-8f31-04c4c8f624f9)
  
-![image](https://github.com/MRxShoody/surligneur-laroutedutour-enchere/assets/109236654/1100734d-406f-4f56-81e1-1c540c9754d7)
+![image](https://github.com/MRxShoody/surligneur-laroutedutour-enchere/assets/109236654/67ac17c2-4c2d-4b87-b681-61a7681b77fc)
 
 8. appuyez sur ok 
 
 9. si tout va bien, vous verrez le nom des cyclies sur lé départ surligné en jaune
 
-![image](https://github.com/MRxShoody/surligneur-laroutedutour-enchere/assets/109236654/87a31380-7071-44aa-a3d3-3c3d4dc2f7e0)
+![image](https://github.com/MRxShoody/surligneur-laroutedutour-enchere/assets/109236654/262885ab-7620-4d6f-b172-b9b3f1101e6f)
 
